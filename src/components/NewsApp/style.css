@@ -1,0 +1,29 @@
+.news-list {
+    display: flex;
+    flex-wrap: wrap;
+    margin: 30px -15px;
+}
+
+.news-item {
+    width: 33.3%;
+    padding: 0 15px;
+    margin-bottom: 30px;
+    height: 100%;
+}
+
+.news-item > .news-article {
+    flex: 1;
+    background-color: aliceblue;
+    color: black;
+}
+.news-image {
+    height: 150px;
+}
+
+h1 {
+    color: black;
+}
+
+div {
+    color: cornsilk;
+}
